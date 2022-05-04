@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Gracjan
-- 👀 I’m interested in becoming Web Developer 
-- 🌱 I’m currently learning making full stack web apps with NodeJs, Express and MongoDB
-- 💞️ I’m looking to collaborate on small projects to gain valuable experience 
+- 👀 I’m a Web Developer 
 - 📫 How to reach me: gracjan.mirekk@gmail.com
 
 <!---
